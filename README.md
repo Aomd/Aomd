@@ -3,6 +3,8 @@
 ### 🙋 Github Stats
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Aomd&show_icons=true&hide_title=true&theme=gruvbox)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aomd&layout=compact&langs_count=12)
+
 <!--
 **Aomd/Aomd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
